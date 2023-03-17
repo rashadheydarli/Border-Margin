@@ -6,6 +6,10 @@
 }
 .base{
     display: inline-block;
+    width: 15%;
+}
+.container{
+    display : flex; 
 }
 .greencircle {
     display: inline-block;
@@ -55,7 +59,9 @@
     border-top: 20px solid transparent;
     border-bottom: 20px solid transparent;
     border-left: 30px solid white;
-    margin: 120px 40px 150px 40px;
+    margin-left: 90px ;
+    margin-top: 30px;
+    position: absolute;F
 }
 .yellowc{
     display: inline-block;
